@@ -1,0 +1,85 @@
+**NOTE: (APP) should be tailored for (web),(social), (ads) and (mobile devices)[!important]
+	
+	**With (social) any item clicked on a social platform should (redirect) to the 
+	(ecommerce shopping page)
+
+	**There should be a (single view) of (customer, products, prices,promotiions and so on)
+
+	**There should be an (omni-channel commerce): that is buying experience across multiple
+	  channels(web,mobile,in-store,social) should be consistent
+--------------------------
+USER REGISTRATION MODULE |
+--------------------------
+1. B2C (Register as a customer) for shopping online 
+2. B2B (Register as a business/shop) for selling and making large wholesale purchase[MODULE TO WORK ON]
+
+
+-------------------------
+ORDER MANAGEMENT MODULE |
+-------------------------
+
+
+
+---------------------------
+PAYMENT PROCESSING MODULE |
+---------------------------
+
+
+
+---------------------------
+CATALOG MANAGEMENT MODULE |
+---------------------------
+
+
+
+---------------------------
+PRODUCT MANAGEMENT MODULE |
+---------------------------
+
+
+
+---------------------------------------
+PRODUCT SORTING AND SEARCHING MODULE  |
+---------------------------------------
+Using EINSTEIN  FOR COMMERCE
+1. Product recommendations
+2. Predictive sort
+3. Commerce Insights
+4. Search Dictionaries
+5. Search recommendations 
+
+
+------------------------
+USER EXPERIENCE MODULE |
+------------------------
+
+
+
+------------------------
+ADDRESS MGMT    MODULE |
+------------------------
+
+
+
+-----------------------------
+INTERNATIONALIZATION MODULE |
+-----------------------------
+English
+Chinese
+Japanese
+French
+Italian
+Korean
+Portuguese
+Hausa
+Swahili
+Akan
+
+----------------------------
+MARKETING PROMOTION MODULE |
+----------------------------
+
+
+------------------------
+CUSTOMER SERVICE MODULE |
+------------------------
