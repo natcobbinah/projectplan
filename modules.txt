@@ -83,3 +83,31 @@ MARKETING PROMOTION MODULE |
 ------------------------
 CUSTOMER SERVICE MODULE |
 ------------------------
+
+
+Product properties:
+ sku/barcode,
+ id,
+ store_id,
+ boosted,
+ name,
+ description,
+ short-description,
+ created-date,
+ last-updated-date,
+ categories=[],
+ tags=[],
+ images=[],
+ sizes=[],
+ colors=[],
+ brand
+ reviews=[],
+ quantity,
+ stock,
+ weight,
+ dimensions,
+ previous-price,
+ current-price,
+ percentage_off,
+ buy
+
