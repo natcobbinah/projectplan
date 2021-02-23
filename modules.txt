@@ -7,6 +7,16 @@
 
 	**There should be an (omni-channel commerce): that is buying experience across multiple
 	  channels(web,mobile,in-store,social) should be consistent
+
+-------------------------
+HOMEPAGE STANDARDS      |
+-------------------------
+Home
+Category
+Product details
+Search results
+
+
 --------------------------
 USER REGISTRATION MODULE |
 --------------------------
@@ -83,8 +93,6 @@ MARKETING PROMOTION MODULE |
 ------------------------
 CUSTOMER SERVICE MODULE |
 ------------------------
-
-
 Product properties:
  sku/barcode,
  id,
