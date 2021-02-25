@@ -8,6 +8,12 @@
 	**There should be an (omni-channel commerce): that is buying experience across multiple
 	  channels(web,mobile,in-store,social) should be consistent
 
+	**Include both (responsive design) and (adaptive design in the UI)
+	##Responsive design adapts what’s on the screen based on the screen size.
+	##Adaptive design detects the device and other features, and then provides the 
+          appropriate feature and layout based on a predefined set of viewport sizes and other 
+	  characteristics.
+
 -------------------------
 HOMEPAGE STANDARDS      |
 -------------------------
@@ -89,6 +95,12 @@ Akan
 MARKETING PROMOTION MODULE |
 ----------------------------
 
+----------------------------
+PRICE BOOKS MODULE         |
+----------------------------
+Price details based on currency
+Price table
+
 
 ------------------------
 CUSTOMER SERVICE MODULE |
@@ -106,6 +118,7 @@ Product properties:
  categories=[],
  tags=[],
  images=[],
+ videos=[], (by a content delivery network)
  sizes=[],
  colors=[],
  brand
