@@ -14,13 +14,37 @@
           appropriate feature and layout based on a predefined set of viewport sizes and other 
 	  characteristics.
 
+	##Integrate Payment APIs
+	##Integrate Ratings and Reviews APIs(eg: Bazaarvoice)
+
+THE WHOLE PROJECT SHOULD BE TAILORED TO ADDRESS THESE MAIN ISSUES
+	**# Authentication
+	**# The Home Page and Navigation
+	**# Categories and Search Results
+	**# Product Tile and Details
+	**# Quickview
+	**# Cart and Checkout
+
+SITE FOOTER CONTENTS
+Standard website footers contain things such as a 
+newsletter 
+sign-up link and 
+links to the site map, 
+contact info, 
+the user’s account, and 
+legal details
+
 -------------------------
 HOMEPAGE STANDARDS      |
 -------------------------
-Home
-Category
-Product details
-Search results
+**# There should be no static information on this page.
+**# This is the first connection with shoppers, and the first attempt the merchandiser 
+    has to sell product
+
+	Home
+	Category
+	Product details
+	Search results
 
 
 --------------------------
@@ -118,7 +142,7 @@ Product properties:
  categories=[],
  tags=[],
  images=[],
- videos=[], (by a content delivery network)
+ videos=[], (by a content delivery network [CorMedia & Informatica Corp])
  sizes=[],
  colors=[],
  brand
