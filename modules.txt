@@ -156,3 +156,49 @@ Product properties:
  percentage_off,
  buy
 
+----------------------------------------------------
+END GOAL PROJECT ACHIEVEMENT SHOULD SATISFY THE FF |
+----------------------------------------------------
+Category Page
+Product Detail Page
+Product Reviews
+Quickview
+Mini-Cart | Cart
+Checkout
+Returning Customers
+Guest Checkout
+Order Summary
+Other Payment Methods
+Multiple Shipping Addresses
+In-Store Pickup
+Purchase Gift Certificates
+Gift Cards | eCertificates
+My Account
+Create an Account
+Reset Password
+Order History
+Wish List | Gift Registry
+Store Locator
+Customer Service
+Contact Us
+Tooltips and Confirmation Windows
+Error Pages
+Responsive Web Design
+
+----------------------------------------
+MICROSERVICE APPROACH SAMPLE 
+--------------------------------------
+Product catalog
+Inventory
+Shopping Cart
+Order Management etc
+
+----------------------------------------
+CATALOG DATA MODEL
+---------------------------------------
+Catalog-Header (references the following catalog-mapping sheets)
+Catalog-CategoryMapping
+Catalog-ProductMapping
+Catalog-RecommendationMapping
+PriceBook-Mapping
+Inventory-Mapping
